@@ -1,2 +1,4 @@
 # frontend-project
-This is my first git Repository.
+This is my frontend project.
+This is my project
+Author-Shivani
